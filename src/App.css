@@ -1,0 +1,12 @@
+body {
+	background: #141414;
+	color: #ffffff;
+}
+
+/* .movie-app > .row {
+	overflow-x: auto;
+	flex-wrap: nowrap;
+} */
+.movie-app {
+	max-width: 210vh; /* Set minimum height to 100% of the viewport height */
+  }
